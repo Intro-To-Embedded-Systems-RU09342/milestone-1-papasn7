@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=D1-Common
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=BLUE
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=GREEN
+Change Net Name : Old Net Name=NetJ1_4 New Net Name=RED
+Added Room: Name=Sheet1

@@ -1,0 +1,6 @@
+Added Component: Designator=D1(RGB_LED_Cathode)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD1_B Pin=D1-B
+Added Pin To Net: NetName=NetD1_G Pin=D1-G
+Added Pin To Net: NetName=NetD1_R Pin=D1-R
+Added Member To Class: ClassName=Sheet1 Member=Component D1 RGB_LED_CATHODE
